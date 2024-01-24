@@ -1,0 +1,6 @@
+- 👋 Hello, my name is Shawn and I am a veteran of the US Army Special Operations community.
+- 👀 I’m interested in sports, travel, business, finance, music, and culinary art. 
+- 🌱 I’m currently learning java, javascript and python.
+- 💞️ I’m looking to collaborate on any projects that involve Web and Android Application Development.  
+- 📫 You can reach me at Shawn.a.bailey01@gmail.com
+- ⚡ Fun fact: I enjoy spending time with family and friends!
